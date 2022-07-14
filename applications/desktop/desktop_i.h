@@ -21,7 +21,7 @@
 #include <loader/loader.h>
 #include <notification/notification_app.h>
 
-#define STATUS_BAR_Y_SHIFT 13
+#define STATUS_BAR_Y_SHIFT 11
 
 typedef enum {
     DesktopViewIdMain,
