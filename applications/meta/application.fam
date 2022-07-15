@@ -39,6 +39,7 @@ App(
         "mousejacker",
         "nrfsniff",
         "touchtunes",
+        "control3v3"
     ],
 )
 

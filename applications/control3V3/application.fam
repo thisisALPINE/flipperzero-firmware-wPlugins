@@ -1,0 +1,10 @@
+App(
+    appid="control3v3",
+    name="Control 3V3",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="control3v3_app",
+    cdefines=["APP_CONTROL3v3"],
+    requires=["gui"],
+    stack_size=1 * 1024,
+    order=33,
+)
